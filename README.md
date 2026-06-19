@@ -166,17 +166,6 @@ These resources can be recreated or downloaded separately and are not required f
 - Personal knowledge graph
 - Context-aware memory retrieval
 
----
-
-## Author
-
-**Alwin Varghese**
-
-Security Researcher — bi0s Hardware
-
-Wireless Security • Embedded Systems • IoT Security • Edge AI
-
-GitHub: https://github.com/Alwin111
 
 ---
 
