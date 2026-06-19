@@ -1,8 +1,5 @@
 # Digital Cognitive Extension
 
-<p align="center">
-  <img src="images/prototype.jpg" alt="Digital Cognitive Extension Prototype" width="800">
-</p>
 
 <p align="center">
   <b>An Offline AI-Powered Wearable Memory Assistant</b>
